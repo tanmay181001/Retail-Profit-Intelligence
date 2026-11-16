@@ -53,3 +53,6 @@ CALCULATE(
 - Raw and cleaned datasets
 - Python data quality script
 - Dashboard screenshot
+- 
+This project demonstrates practical data analytics and business intelligence skills.
+
